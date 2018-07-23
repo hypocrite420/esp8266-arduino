@@ -1,5 +1,5 @@
 https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/installing-the-esp8266-arduino-addon
-
+https://github.com/esp8266/Arduino/blob/master/README.md
 # esp8266-arduino
 esp8266 Arduino Setup instruction
 Arduino core for ESP8266 WiFi chip
